@@ -30,7 +30,7 @@ class _Donors extends State<Donors> {
             IconButton(
               icon: Icon(FontAwesomeIcons.tint, color: Colors.white),
               onPressed: () {
-                Navigator.push(context, Page(route: Donors()));
+                // Navigator.push(context, Page(route: Donors()));
               },
             ),
           ],
